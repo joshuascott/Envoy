@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libraries>
+	<upload>
+		<label>File Upload Messages</label>
+		<comment/>
+		<failure color="red">Your file was not uploaded please try again.</failure>
+		<success color="green">Your file was successfully uploaded.</success>
+		<test color="green">Envoy is configured and working correctly.</test>
+		<invalid color="red">The username or password you submitted were invalid, please try again.</invalid>
+	</upload>
+	<cms>
+		<label>CMS Admin Messages</label>
+		<comment/>
+		<saved color="green">Content successfully saved.</saved>
+		<deleted color="green">Content successfully deleted.</deleted>
+		<attachmentdeleted color="green">Attachment(s) successfully deleted.</attachmentdeleted>
+		<noneselected color="red">No attachments were selected. Nothing was deleted.</noneselected>
+		<protected color="red">You have attemped to delete protected content. This content cannot be deleted.</protected>
+		<norights color="red">You do not have rights to access this content.</norights>
+		<authorListSaved color="green">The author list was successfully saved.</authorListSaved>
+	</cms>
+	<resources>
+		<label>Resources Admin Messages</label>
+		<comment/>
+		<saved color="green">Resource successfully saved.</saved>
+		<deleted color="green">Resource successfully deleted.</deleted>
+		<attachmentdeleted color="green">Attachment(s) successfully deleted.</attachmentdeleted>
+		<attachmentuploaded color="green">Your attachment was successfully uploaded and processed.</attachmentuploaded>
+		<noneselected color="red">No attachments were selected. Nothing was deleted.</noneselected>
+		<protected color="red">You have attemped to delete protected content. This content cannot be deleted.</protected>
+	</resources>
+</libraries>
+	
+	

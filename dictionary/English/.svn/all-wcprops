@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/iCreateCMS/!svn/ver/14/trunk/core/model/display/envoy/dictionary/English
+END
+contentDictionary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/iCreateCMS/!svn/ver/14/trunk/core/model/display/envoy/dictionary/English/contentDictionary.xml
+END
+OpportunityDictionary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/iCreateCMS/!svn/ver/14/trunk/core/model/display/envoy/dictionary/English/OpportunityDictionary.xml
+END
+authenticationDictionary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/iCreateCMS/!svn/ver/14/trunk/core/model/display/envoy/dictionary/English/authenticationDictionary.xml
+END
+communityDictionary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/iCreateCMS/!svn/ver/14/trunk/core/model/display/envoy/dictionary/English/communityDictionary.xml
+END
+defaultDictionary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/iCreateCMS/!svn/ver/14/trunk/core/model/display/envoy/dictionary/English/defaultDictionary.xml
+END
+uploadDictionary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/iCreateCMS/!svn/ver/14/trunk/core/model/display/envoy/dictionary/English/uploadDictionary.xml
+END
+formServicesDictionary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/iCreateCMS/!svn/ver/14/trunk/core/model/display/envoy/dictionary/English/formServicesDictionary.xml
+END

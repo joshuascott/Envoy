@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libraries>
+	<opportunity>
+		<label>Opportunity Messages</label>
+		<comment/>
+		<failure color="red">Your file was not uploaded please try again.</failure>
+		<saved color="green">This opportunity was successfully saved.</saved>
+		<success color="green">The item was successfully saved.</success>
+		<fieldsaved color="green">The field was successfully saved.</fieldsaved>
+		<LocationSaved color="green">The location was successfully saved.</LocationSaved>
+		<MinistrySaved color="green">The ministry was successfully saved.</MinistrySaved>
+		<OppTermSaved color="green">The term length was successfully saved.</OppTermSaved>
+		<invalid color="red">The username or password you submitted were invalid, please try again.</invalid>
+		<deleted color="green">Content successfully deleted.</deleted>
+		<attachmentdeleted color="green">Attachment(s) successfully deleted.</attachmentdeleted>
+		<noneselected color="red">No attachments were selected. Nothing was deleted.</noneselected>
+		<protected color="red">You have attemped to delete protected content. This content cannot be deleted.</protected>
+	</opportunity>
+	<upload>
+		<label>File Upload Messages</label>
+		<comment/>
+		<failure color="red">Your file was not uploaded please try again.</failure>
+		<success color="green">Your file was successfully uploaded.</success>
+		<test color="green">Envoy is configured and working correctly.</test>
+		<invalid color="red">The username or password you submitted were invalid, please try again.</invalid>
+	</upload>
+
+</libraries>
+	
+	

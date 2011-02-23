@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libraries>
+	<help>
+		<label>Help System Messages</label>
+		<comment/>
+		<saved color="green">The help system message was saved successfully!</saved>
+	</help>
+</libraries>

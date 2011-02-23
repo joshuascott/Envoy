@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libraries>
+	<admin>
+		<label>Admin Bio Messages</label>
+		<comment/>
+		<biosaved color="green">Your community bio was saved successfully!</biosaved>
+		<attachmentdeleted color="green">Photos(s) successfully deleted.</attachmentdeleted>
+		<noneselected color="red">No photos were selected. Nothing was deleted.</noneselected>
+	</admin>
+	<upload>
+		<label>Bio Upload Messages</label>
+		<comment/>
+		<success color="green">Your picture has been successfully been uploaded!</success>
+	</upload>
+</libraries>

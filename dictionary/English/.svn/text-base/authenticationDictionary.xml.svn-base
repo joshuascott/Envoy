@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libraries>
+	<login>
+		<label>Login Messages</label>
+		<comment/>
+		<expired color="red">Your login session has expired. Please login again.</expired>
+		<sessionerror color="red">An error occured during the creation of your session, please try again.</sessionerror>
+		<loggedout color="green">You have been successfully logged out.</loggedout>
+		<test color="green">Envoy is configured and working correctly.</test>
+		<passwordsent color="green">Your login information has been sent to the requested e-mail address.</passwordsent>
+		<emailaddressnotfound color="red">The requested e-mail address was not found. Please try again.</emailaddressnotfound>
+		<invalid color="red">The username or password you submitted were invalid, please try again.</invalid>
+	</login>
+	<userrecord>
+		<label>User Record Messages</label>
+		<comment/>
+		<saved color="green">The user record was successfully saved.</saved>
+		<groupsaved color="green">The role group record was successfully saved.</groupsaved>
+		<profilesaved color="green">Your profile was successfully saved.</profilesaved>
+		<rolesaved color="green">The role record was successfully saved.</rolesaved>
+		<userDeleted color="green">The user record was successfully deleted.</userDeleted>
+		<userUnDeleted color="green">The user record was successfully undeleted.</userUnDeleted>
+	</userrecord>
+	
+	<upload>
+		<label>File Upload Messages</label>
+		<comment/>
+		<failure color="red">Your file was not uploaded please try again.</failure>
+		<success color="green">Your file was successfully uploaded.</success>
+		<test color="green">Envoy is configured and working correctly.</test>
+		<attachmentdeleted color="green">Attachment(s) successfully deleted.</attachmentdeleted>
+		<noneselected color="red">No attachments were selected. Nothing was deleted.</noneselected>
+		<invalid color="red">The username or password you submitted were invalid, please try again.</invalid>
+	</upload>
+</libraries>	
+	

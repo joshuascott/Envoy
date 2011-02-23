@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libraries>
+	<default>
+		<label>Default Messages</label>
+		<comment/>
+		<success color="green">The action has completed successfully!</success>
+		<failure color="red">ERROR: The action did NOT complete successfully.</failure>
+		<no-message color="red">ERROR: There is no message defined for this event.</no-message>
+		
+	</default>
+	<help>
+		<label>Help System Messages</label>
+		<comment/>
+		<saved color="green">The help system message was saved successfully!</saved>
+	</help>
+	<notification>
+		<label>Notification System Messages</label>
+		<comment/>
+		<NotificationMessageSaved color="green">The notification message was saved successfully!</NotificationMessageSaved>
+	</notification>
+	<system>
+		<label>Notification System Messages</label>
+		<comment/>
+		<SectionSaved color="green">The section was saved successfully!</SectionSaved>
+		<sitesaved color="green">The site was saved successfully!</sitesaved>
+		<CMSFeatureSaved color="green">The content feature was saved successfully!</CMSFeatureSaved>
+		<NavigationSaved color="green">The navigation item was saved successfully!</NavigationSaved>
+		<LinkSaved color="green">The link was saved successfully!</LinkSaved>
+		<CategorySaved color="green">The category was saved successfully!</CategorySaved>
+		<success color="green">The action was successfully!</success>
+	</system>
+</libraries>

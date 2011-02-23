@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<login>
+		<label>Login Messages</label>
+		<comment/>
+		<test color="green">Envoy es configurado y de trabajo correctamente.</test>
+	</login>
+	
+	

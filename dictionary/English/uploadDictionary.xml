@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libraries>
+	<upload>
+		<label>File Upload Messages</label>
+		<comment/>
+		<failure color="red">Your file was not uploaded please try again.</failure>
+		<success color="green">Your file was successfully uploaded.</success>
+		<test color="green">Envoy is configured and working correctly.</test>
+		<invalid color="red">The username or password you submitted were invalid, please try again.</invalid>
+	</upload>
+	<cms>
+		<label>CMS AdminMessages</label>
+		<comment/>
+		<saved color="green">Your file was successfully uploaded.</saved>
+	</cms>
+</libraries>	
+	
